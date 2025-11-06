@@ -16,9 +16,10 @@
 *все проекты реализованы на одном [датасете](https://www.kaggle.com/datasets/wordsforthewise/lending-club?datasetId=902&sortBy=voteCount)
 | Проект | Описание | Инструменты | 
 |:--------|:----------------------------|:-----------------------------|
-| Проект 1 | Анализ данных кредитного портфеля, стат.анализ., чистка, манипуляция, визуализация данных | Python, SQL |
-| [Проект 2](https://github.com/Kridosz/Loan-Default-Prediction_Model?tab=readme-ov-file) | Loan default prediction (можем сделать что-то похожее, реплику, чуть поменять под себя) | Python (scikit learn) |
-| Проект 3 | Визуализация и презентация результатов | Python, Excel, Power Point |
+| [Проект 1](https://github.com/CtrlAQumara/glamour_portfolio/blob/main/Data_cleaning.ipynb) | Ознакомление и изучение данных, очистка и подготовка данных к последующей работе | Python |
+| Проект 2 | Стат. анализ данных, визуализация данных | Python |
+| [Проект 3](https://github.com/Kridosz/Loan-Default-Prediction_Model?tab=readme-ov-file) | Loan default prediction (можем сделать что-то похожее, реплику, чуть поменять под себя) | Python (scikit learn) |
+| Проект 4 | Визуализация и презентация результатов | Python, Excel, Power Point |
 
 ---
 
