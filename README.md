@@ -17,7 +17,7 @@
 | Проект | Описание | Инструменты | 
 |:--------|:----------------------------|:-----------------------------|
 | [Проект 1](https://github.com/CtrlAQumara/glamour_portfolio/blob/main/Data_cleaning.ipynb) | Ознакомление и изучение данных, очистка и подготовка данных к последующей работе | Python |
-| Проект 2 | Стат. анализ данных, визуализация данных | Python |
+| [Проект 2](https://github.com/CtrlAQumara/glamour_portfolio/blob/main/Data_analysis_SQL.ipynb) | Стат. анализ данных, визуализация данных | Python |
 | [Проект 3](https://github.com/Kridosz/Loan-Default-Prediction_Model?tab=readme-ov-file) | Loan default prediction (можем сделать что-то похожее, реплику, чуть поменять под себя) | Python (scikit learn) |
 | Проект 4 | Визуализация и презентация результатов | Python, Excel, Power Point |
 
